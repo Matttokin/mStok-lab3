@@ -1,0 +1,10 @@
+F:\Users\MrTokin\source\repos\mStok lab3\mStok lab3\bin\Debug\mStok lab3.exe.config
+F:\Users\MrTokin\source\repos\mStok lab3\mStok lab3\bin\Debug\mStok lab3.exe
+F:\Users\MrTokin\source\repos\mStok lab3\mStok lab3\bin\Debug\mStok lab3.pdb
+F:\Users\MrTokin\source\repos\mStok lab3\mStok lab3\obj\Debug\mStok lab3.csprojAssemblyReference.cache
+F:\Users\MrTokin\source\repos\mStok lab3\mStok lab3\obj\Debug\mStok_lab3.Properties.Resources.resources
+F:\Users\MrTokin\source\repos\mStok lab3\mStok lab3\obj\Debug\mStok lab3.csproj.GenerateResource.cache
+F:\Users\MrTokin\source\repos\mStok lab3\mStok lab3\obj\Debug\mStok lab3.csproj.CoreCompileInputs.cache
+F:\Users\MrTokin\source\repos\mStok lab3\mStok lab3\obj\Debug\mStok lab3.exe
+F:\Users\MrTokin\source\repos\mStok lab3\mStok lab3\obj\Debug\mStok lab3.pdb
+F:\Users\MrTokin\source\repos\mStok lab3\mStok lab3\obj\Debug\mStok_lab3.Form1.resources
